@@ -1,0 +1,14 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\srvsee.exe
+bin\Debug\srvsee.pdb
+obj\Debug\srvsee.exe
+obj\Debug\srvsee.pdb
+obj\Debug\srvsee.ProjectInstaller.resources
+obj\Debug\srvsee.csproj.GenerateResource.Cache
+bin\Release\srvsee.exe
+bin\Release\srvsee.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\srvsee.ProjectInstaller.resources
+obj\Release\srvsee.csproj.GenerateResource.Cache
+obj\Release\srvsee.exe
+obj\Release\srvsee.pdb

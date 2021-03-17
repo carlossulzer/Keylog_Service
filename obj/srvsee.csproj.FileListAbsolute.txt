@@ -1,0 +1,6 @@
+C:\carlos\Programas\WINDOWS\SrvSee\srvsee\obj\Release\srvsee.exe
+C:\carlos\Programas\WINDOWS\SrvSee\srvsee\obj\Release\srvsee.pdb
+C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe
+C:\carlos\Programas\WINDOWS\SrvSee\srvsee\obj\Release\ResolveAssemblyReference.cache
+C:\carlos\Programas\WINDOWS\SrvSee\srvsee\obj\Release\srvsee.ProjectInstaller.resources
+C:\carlos\Programas\WINDOWS\SrvSee\srvsee\obj\Release\srvsee.csproj.GenerateResource.Cache

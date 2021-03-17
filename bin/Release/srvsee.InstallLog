@@ -1,0 +1,63 @@
+﻿Installing assembly 'C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe
+   logfile = C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.InstallLog
+Installing service cspkeysee...
+Service cspkeysee has been successfully installed.
+Creating EventLog source cspkeysee in log Application...
+Committing assembly 'C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe
+   logfile = C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.InstallLog
+Installing assembly 'C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe
+   logfile = C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.InstallLog
+Installing service KEY SEE SERVICE...
+Service KEY SEE SERVICE has been successfully installed.
+Creating EventLog source KEY SEE SERVICE in log Application...
+Committing assembly 'C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe
+   logfile = C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.InstallLog
+Installing assembly 'C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe
+   logfile = C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.InstallLog
+Installing service KEY SEE SERVICE...
+Creating EventLog source KEY SEE SERVICE in log Application...
+Rolling back assembly 'C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe
+   logfile = C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.InstallLog
+Restoring event log to previous state for source KEY SEE SERVICE.
+Uninstalling assembly 'C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe
+   logfile = C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.InstallLog
+Removing EventLog source KEY SEE SERVICE.
+Service KEY SEE SERVICE is being removed from the system...
+Service KEY SEE SERVICE was successfully removed from the system.
+Installing assembly 'c:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe
+   logfile = c:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.InstallLog
+Installing service KEY SEE SERVICE...
+Service KEY SEE SERVICE has been successfully installed.
+Creating EventLog source KEY SEE SERVICE in log Application...
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'c:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = c:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe
+   logfile = c:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.InstallLog

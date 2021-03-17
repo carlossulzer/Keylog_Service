@@ -1,0 +1,8 @@
+como instalar o serviço
+
+Iniciar / executar 
+c:\windows\Microsoft.NET\Framework\v2.0.50727\InstallUtil.exe C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe
+
+
+
+C:\Arquivos de programas\Microsoft Visual Studio 8\VC InstallUtil.exe /u C:\carlos\Programas\WINDOWS\SrvSee\srvsee\bin\Release\srvsee.exe

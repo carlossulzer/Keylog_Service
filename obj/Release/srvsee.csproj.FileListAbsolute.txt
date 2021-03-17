@@ -1,0 +1,8 @@
+C:\Carlos\Programas\windows\SrvSee\srvsee\obj\Release\srvsee.exe
+C:\Carlos\Programas\windows\SrvSee\srvsee\obj\Release\srvsee.pdb
+C:\Carlos\Programas\windows\SrvSee\srvsee\bin\Release\srvsee.exe
+C:\Carlos\Programas\windows\SrvSee\srvsee\bin\Release\srvsee.pdb
+C:\Carlos\Programas\windows\SrvSee\srvsee\obj\Release\ResolveAssemblyReference.cache
+C:\Carlos\Programas\windows\SrvSee\srvsee\obj\Release\srvsee.ProjectInstaller.resources
+C:\Carlos\Programas\windows\SrvSee\srvsee\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Carlos\Programas\windows\SrvSee\srvsee\obj\Release\GenerateResource-ResGen.write.1.tlog
